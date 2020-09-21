@@ -13,7 +13,7 @@ const books = [
   },
   {
     name: "phiظics",
-    teacher: "fazel"
+    teacher: "faظel"
   }
 ];
 
